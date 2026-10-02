@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "documentType": "VETERINARY_HEALTH_CERTIFICATE",
+  "documentTypeConfidence": 0.93,
+  "overallConfidence": 0.92,
+  "requiresManualReview": false,
+  "pages": 1,
+  "rawText": "VETERINARY HEALTH CERTIFICATE...",
+  "blocks": [{"text":"Horse Name: Thunder King","confidence":0.96,"page":1,"boundingBox":[[10,10],[300,10],[300,30],[10,30]]}],
+  "fields": [{"name":"horseName","value":"Thunder King","normalizedValue":"Thunder King","confidence":0.96,"sourceText":"Horse Name: Thunder King","page":1}],
+  "warnings": []
+}
+
